@@ -1,2 +1,4 @@
 # NearbyDocs
-Nearby Project Document Page
+
+Nearby Project Document Repository  
+See the Wiki page above.
